@@ -1,0 +1,8 @@
+#Configuración del puerto
+PORT=3000
+
+#Configuración MySQL
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=123456
+DB_NAME=APR_DB
